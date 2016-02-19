@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CacheImageView">
+        <attr name="defaultImage" format="reference"/>
+    </declare-styleable>
+    
+    <declare-styleable name="NavView">
+        <attr name="checkedImg" format="reference"/>
+        <attr name="uncheckedImg" format="reference"/>
+    </declare-styleable>
+
+</resources>
